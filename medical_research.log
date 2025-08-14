@@ -1,0 +1,33 @@
+2025-07-28 15:44:19,652 - ERROR - Missing required field in drug interaction: drug2
+2025-07-28 15:44:19,652 - ERROR - Missing required field: gender
+2025-07-28 15:44:19,652 - ERROR - Age and survival_days must be integers
+2025-07-28 15:44:19,655 - INFO - Pattern report generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmpnsv3zv0c/disease_patterns.txt
+2025-07-28 15:44:19,655 - INFO - Survival report generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmpmnolcpzx/survival_analysis.txt
+2025-07-28 15:44:19,656 - INFO - Treatment recommendations generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmpfdinyhuw/treatment_recommendations.txt
+2025-07-28 15:44:19,657 - INFO - Loading sample medical research data...
+2025-07-28 15:44:19,657 - INFO - Loaded 5 patients, 3 drug interactions, and 2 genetic variants
+2025-07-28 15:45:11,665 - ERROR - Missing required field in drug interaction: drug2
+2025-07-28 15:45:11,665 - ERROR - Missing required field: gender
+2025-07-28 15:45:11,666 - ERROR - Age and survival_days must be integers
+2025-07-28 15:45:11,668 - INFO - Pattern report generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmp9eu9tqbr/disease_patterns.txt
+2025-07-28 15:45:11,668 - INFO - Survival report generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmpanwda6b6/survival_analysis.txt
+2025-07-28 15:45:11,670 - INFO - Treatment recommendations generated: /var/folders/pr/7np0b_k93v75s4z3gdy3smyh0000gn/T/tmpirv89mkd/treatment_recommendations.txt
+2025-07-28 15:45:11,670 - INFO - Loading sample medical research data...
+2025-07-28 15:45:11,670 - INFO - Loaded 5 patients, 3 drug interactions, and 2 genetic variants
+2025-07-28 15:45:15,309 - INFO - Loading sample medical research data...
+2025-07-28 15:45:15,309 - INFO - Loaded 5 patients, 3 drug interactions, and 2 genetic variants
+2025-07-28 15:45:15,310 - INFO - Survival report generated: reports/survival_analysis.txt
+2025-07-28 15:45:15,311 - INFO - Pattern report generated: reports/disease_patterns.txt
+2025-07-28 15:45:15,312 - INFO - Treatment recommendations generated: reports/treatment_recommendations.txt
+2025-07-28 15:46:13,472 - INFO - Loading sample medical research data...
+2025-07-28 15:46:13,473 - INFO - Loaded 5 patients, 3 drug interactions, and 2 genetic variants
+2025-07-28 15:46:19,923 - INFO - Survival report generated: reports/survival_analysis.txt
+2025-07-28 15:48:53,688 - INFO - Pattern report generated: reports/disease_patterns.txt
+2025-07-28 15:49:07,314 - INFO - Pattern report generated: reports/disease_patterns.txt
+2025-07-28 15:49:11,592 - INFO - Pattern report generated: reports/disease_patterns.txt
+2025-07-28 15:49:30,287 - INFO - Treatment recommendations generated: reports/treatment_recommendations.txt
+2025-07-28 15:49:41,289 - INFO - Loading sample medical research data...
+2025-07-28 15:49:41,293 - INFO - Loaded 5 patients, 3 drug interactions, and 2 genetic variants
+2025-07-28 15:49:41,296 - INFO - Survival report generated: reports/survival_analysis.txt
+2025-07-28 15:49:41,297 - INFO - Pattern report generated: reports/disease_patterns.txt
+2025-07-28 15:49:41,309 - INFO - Treatment recommendations generated: reports/treatment_recommendations.txt

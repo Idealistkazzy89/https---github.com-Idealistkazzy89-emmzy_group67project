@@ -1,0 +1,58 @@
+DISEASE PATTERN ANALYSIS REPORT
+========================================
+
+Generated on: 2025-07-28 15:49:41
+
+DIAGNOSIS DISTRIBUTION:
+-------------------------
+Lung Cancer: 1 patients
+Breast Cancer: 1 patients
+Prostate Cancer: 1 patients
+Ovarian Cancer: 1 patients
+Colon Cancer: 1 patients
+
+AGE ANALYSIS BY DIAGNOSIS:
+------------------------------
+
+Lung Cancer:
+  Mean age: 65.0 years
+  Median age: 65.0 years
+  Age range: 65-65 years
+
+Breast Cancer:
+  Mean age: 58.0 years
+  Median age: 58.0 years
+  Age range: 58-58 years
+
+Prostate Cancer:
+  Mean age: 72.0 years
+  Median age: 72.0 years
+  Age range: 72-72 years
+
+Ovarian Cancer:
+  Mean age: 45.0 years
+  Median age: 45.0 years
+  Age range: 45-45 years
+
+Colon Cancer:
+  Mean age: 61.0 years
+  Median age: 61.0 years
+  Age range: 61-61 years
+
+GENDER DISTRIBUTION BY DIAGNOSIS:
+-----------------------------------
+
+Lung Cancer:
+  M: 1 patients
+
+Breast Cancer:
+  F: 1 patients
+
+Prostate Cancer:
+  M: 1 patients
+
+Ovarian Cancer:
+  F: 1 patients
+
+Colon Cancer:
+  M: 1 patients

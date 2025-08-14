@@ -1,0 +1,112 @@
+[
+  {
+    "variant_id": "rs1042522",
+    "gene": "TP53",
+    "chromosome": "17",
+    "position": 7577120,
+    "reference_allele": "G",
+    "alternate_allele": "C",
+    "population_frequency": 0.25,
+    "clinical_significance": "Likely pathogenic",
+    "associated_diseases": ["Lung Cancer", "Breast Cancer", "Colon Cancer"]
+  },
+  {
+    "variant_id": "rs1801133",
+    "gene": "MTHFR",
+    "chromosome": "1",
+    "position": 11856378,
+    "reference_allele": "C",
+    "alternate_allele": "T",
+    "population_frequency": 0.005,
+    "clinical_significance": "Uncertain significance",
+    "associated_diseases": ["Cardiovascular Disease", "Neural Tube Defects"]
+  },
+  {
+    "variant_id": "rs7412",
+    "gene": "APOE",
+    "chromosome": "19",
+    "position": 45412079,
+    "reference_allele": "C",
+    "alternate_allele": "T",
+    "population_frequency": 0.08,
+    "clinical_significance": "Pathogenic",
+    "associated_diseases": ["Alzheimer's Disease", "Cardiovascular Disease"]
+  },
+  {
+    "variant_id": "rs1799853",
+    "gene": "CYP2C9",
+    "chromosome": "10",
+    "position": 94942090,
+    "reference_allele": "C",
+    "alternate_allele": "T",
+    "population_frequency": 0.12,
+    "clinical_significance": "Likely pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Bleeding Disorders"]
+  },
+  {
+    "variant_id": "rs4244285",
+    "gene": "CYP2C19",
+    "chromosome": "10",
+    "position": 94781859,
+    "reference_allele": "G",
+    "alternate_allele": "A",
+    "population_frequency": 0.15,
+    "clinical_significance": "Likely pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Cardiovascular Disease"]
+  },
+  {
+    "variant_id": "rs12248560",
+    "gene": "CYP2C19",
+    "chromosome": "10",
+    "position": 94781236,
+    "reference_allele": "C",
+    "alternate_allele": "T",
+    "population_frequency": 0.03,
+    "clinical_significance": "Pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Clopidogrel Resistance"]
+  },
+  {
+    "variant_id": "rs28399504",
+    "gene": "CYP2D6",
+    "chromosome": "22",
+    "position": 42526694,
+    "reference_allele": "A",
+    "alternate_allele": "G",
+    "population_frequency": 0.02,
+    "clinical_significance": "Pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Psychiatric Disorders"]
+  },
+  {
+    "variant_id": "rs1065852",
+    "gene": "CYP2D6",
+    "chromosome": "22",
+    "position": 42523511,
+    "reference_allele": "G",
+    "alternate_allele": "A",
+    "population_frequency": 0.18,
+    "clinical_significance": "Likely pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Pain Management"]
+  },
+  {
+    "variant_id": "rs776746",
+    "gene": "CYP3A5",
+    "chromosome": "7",
+    "position": 99270056,
+    "reference_allele": "A",
+    "alternate_allele": "G",
+    "population_frequency": 0.22,
+    "clinical_significance": "Likely pathogenic",
+    "associated_diseases": ["Drug Metabolism", "Transplant Rejection"]
+  },
+  {
+    "variant_id": "rs2740574",
+    "gene": "CYP3A4",
+    "chromosome": "7",
+    "position": 99316184,
+    "reference_allele": "A",
+    "alternate_allele": "G",
+    "population_frequency": 0.05,
+    "clinical_significance": "Uncertain significance",
+    "associated_diseases": ["Drug Metabolism", "Cancer Risk"]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "drug1": "Warfarin",
+    "drug2": "Aspirin",
+    "interaction_type": "Anticoagulation",
+    "severity": "High",
+    "risk_score": 0.85,
+    "evidence_level": "Strong",
+    "adverse_events": ["Bleeding", "Bruising", "Gastrointestinal Hemorrhage"]
+  },
+  {
+    "drug1": "Simvastatin",
+    "drug2": "Amiodarone",
+    "interaction_type": "Metabolism",
+    "severity": "Moderate",
+    "risk_score": 0.65,
+    "evidence_level": "Moderate",
+    "adverse_events": ["Muscle Pain", "Liver Damage", "Rhabdomyolysis"]
+  },
+  {
+    "drug1": "Digoxin",
+    "drug2": "Furosemide",
+    "interaction_type": "Electrolyte",
+    "severity": "Moderate",
+    "risk_score": 0.55,
+    "evidence_level": "Strong",
+    "adverse_events": [
+      "Arrhythmia",
+      "Electrolyte Imbalance",
+      "Digitalis Toxicity"
+    ]
+  },
+  {
+    "drug1": "Methotrexate",
+    "drug2": "NSAIDs",
+    "interaction_type": "Renal",
+    "severity": "High",
+    "risk_score": 0.78,
+    "evidence_level": "Strong",
+    "adverse_events": [
+      "Renal Failure",
+      "Bone Marrow Suppression",
+      "Hepatotoxicity"
+    ]
+  },
+  {
+    "drug1": "Cyclosporine",
+    "drug2": "Grapefruit Juice",
+    "interaction_type": "Metabolism",
+    "severity": "Moderate",
+    "risk_score": 0.45,
+    "evidence_level": "Moderate",
+    "adverse_events": [
+      "Increased Drug Levels",
+      "Nephrotoxicity",
+      "Hypertension"
+    ]
+  },
+  {
+    "drug1": "Phenytoin",
+    "drug2": "Oral Contraceptives",
+    "interaction_type": "Metabolism",
+    "severity": "High",
+    "risk_score": 0.72,
+    "evidence_level": "Strong",
+    "adverse_events": [
+      "Contraceptive Failure",
+      "Breakthrough Bleeding",
+      "Pregnancy Risk"
+    ]
+  },
+  {
+    "drug1": "Lithium",
+    "drug2": "Thiazide Diuretics",
+    "interaction_type": "Renal",
+    "severity": "High",
+    "risk_score": 0.68,
+    "evidence_level": "Strong",
+    "adverse_events": ["Lithium Toxicity", "Tremor", "Confusion"]
+  },
+  {
+    "drug1": "Theophylline",
+    "drug2": "Ciprofloxacin",
+    "interaction_type": "Metabolism",
+    "severity": "Moderate",
+    "risk_score": 0.58,
+    "evidence_level": "Moderate",
+    "adverse_events": [
+      "Theophylline Toxicity",
+      "Seizures",
+      "Cardiac Arrhythmias"
+    ]
+  }
+]

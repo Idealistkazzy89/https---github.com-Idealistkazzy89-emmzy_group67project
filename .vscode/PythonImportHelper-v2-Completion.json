@@ -1,0 +1,484 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "statistics",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "statistics",
+        "description": "statistics",
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DrugInteraction",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "GeneticVariant",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidator",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "StatisticalAnalyzer",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DrugInteractionAnalyzer",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "GeneticAnalyzer",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "ReportGenerator",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalResearchCLI",
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "isExtraImport": true,
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class Patient:\n    \"\"\"Represents a patient in the medical research dataset.\"\"\"\n    patient_id: str\n    age: int\n    gender: str\n    diagnosis: str\n    treatment: str\n    survival_days: int\n    genetic_variants: List[str]\n    adverse_events: List[str]",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DrugInteraction",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class DrugInteraction:\n    \"\"\"Represents a drug interaction with risk assessment.\"\"\"\n    drug1: str\n    drug2: str\n    interaction_type: str\n    severity: str\n    risk_score: float\n    evidence_level: str\n    adverse_events: List[str]\n    def __post_init__(self):",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "GeneticVariant",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class GeneticVariant:\n    \"\"\"Represents a genetic variant with population data.\"\"\"\n    variant_id: str\n    gene: str\n    chromosome: str\n    position: int\n    reference_allele: str\n    alternate_allele: str\n    population_frequency: float\n    clinical_significance: str",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidator",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class DataValidator:\n    \"\"\"Validates medical research data for consistency and integrity.\"\"\"\n    @staticmethod\n    def validate_patient_data(data: Dict[str, Any]) -> bool:\n        \"\"\"Validate patient data structure and content.\"\"\"\n        required_fields = ['patient_id', 'age', 'gender', 'diagnosis', 'treatment', \n                          'survival_days', 'genetic_variants', 'adverse_events', 'biomarkers']\n        for field in required_fields:\n            if field not in data:\n                logger.error(f\"Missing required field: {field}\")",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class DataLoader:\n    \"\"\"Handles loading and parsing of medical research data files.\"\"\"\n    def __init__(self, data_directory: str = \"data\"):\n        self.data_directory = data_directory\n        self.validator = DataValidator()\n    def load_patients_from_csv(self, filename: str) -> List[Patient]:\n        \"\"\"Load patient data from CSV file.\"\"\"\n        filepath = os.path.join(self.data_directory, filename)\n        patients = []\n        try:",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "StatisticalAnalyzer",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class StatisticalAnalyzer:\n    \"\"\"Performs statistical analysis on medical research data.\"\"\"\n    @staticmethod\n    def calculate_survival_analysis(patients: List[Patient]) -> Dict[str, Any]:\n        \"\"\"Perform Kaplan-Meier survival analysis.\"\"\"\n        if not patients:\n            return {\"error\": \"No patient data available\"}\n        # Group patients by treatment\n        treatment_groups = defaultdict(list)\n        for patient in patients:",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "DrugInteractionAnalyzer",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class DrugInteractionAnalyzer:\n    \"\"\"Analyzes drug interactions and adverse events.\"\"\"\n    def __init__(self, interactions: List[DrugInteraction]):\n        self.interactions = interactions\n    def find_high_risk_interactions(self, threshold: float = 0.7) -> List[DrugInteraction]:\n        \"\"\"Find high-risk drug interactions above the threshold.\"\"\"\n        return [interaction for interaction in self.interactions \n                if interaction.risk_score >= threshold]\n    def analyze_adverse_events(self) -> Dict[str, Any]:\n        \"\"\"Analyze adverse events across all drug interactions.\"\"\"",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "GeneticAnalyzer",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class GeneticAnalyzer:\n    \"\"\"Analyzes genetic variants and population frequencies.\"\"\"\n    def __init__(self, variants: List[GeneticVariant]):\n        self.variants = variants\n    def find_rare_variants(self, frequency_threshold: float = 0.01) -> List[GeneticVariant]:\n        \"\"\"Find rare genetic variants below the frequency threshold.\"\"\"\n        return [variant for variant in self.variants \n                if variant.population_frequency <= frequency_threshold]\n    def analyze_by_gene(self) -> Dict[str, List[GeneticVariant]]:\n        \"\"\"Group variants by gene.\"\"\"",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "ReportGenerator",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class ReportGenerator:\n    \"\"\"Generates comprehensive clinical research reports.\"\"\"\n    def __init__(self, output_directory: str = \"reports\"):\n        self.output_directory = output_directory\n        os.makedirs(output_directory, exist_ok=True)\n    def generate_survival_report(self, survival_data: Dict[str, Any], filename: str = \"survival_analysis.txt\") -> str:\n        \"\"\"Generate a detailed survival analysis report.\"\"\"\n        filepath = os.path.join(self.output_directory, filename)\n        with open(filepath, 'w', encoding='utf-8') as file:\n            file.write(\"SURVIVAL ANALYSIS REPORT\\n\")",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalResearchCLI",
+        "kind": 6,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "class MedicalResearchCLI:\n    \"\"\"Main CLI application for medical research data mining.\"\"\"\n    def __init__(self):\n        self.data_loader = DataLoader()\n        self.statistical_analyzer = StatisticalAnalyzer()\n        self.report_generator = ReportGenerator()\n        self.patients = []\n        self.drug_interactions = []\n        self.genetic_variants = []\n    def load_sample_data(self):",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "def main():\n    \"\"\"Main entry point for the application.\"\"\"\n    parser = argparse.ArgumentParser(\n        description=\"Medical Research Data Mining and Pattern Discovery CLI\",\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        epilog=\"\"\"\nExamples:\n  python medical_research_cli.py --interactive\n  python medical_research_cli.py --demo\n        \"\"\"",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "medical_research_cli",
+        "description": "medical_research_cli",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@dataclass\nclass Patient:\n    \"\"\"Represents a patient in the medical research dataset.\"\"\"\n    patient_id: str\n    age: int\n    gender: str\n    diagnosis: str\n    treatment: str\n    survival_days: int",
+        "detail": "medical_research_cli",
+        "documentation": {}
+    },
+    {
+        "label": "TestPatient",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestPatient(unittest.TestCase):\n    \"\"\"Test cases for Patient data class.\"\"\"\n    def test_valid_patient_creation(self):\n        \"\"\"Test creating a valid patient.\"\"\"\n        patient = Patient(\n            patient_id=\"P001\",\n            age=65,\n            gender=\"M\",\n            diagnosis=\"Lung Cancer\",\n            treatment=\"Chemotherapy\",",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestDrugInteraction",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestDrugInteraction(unittest.TestCase):\n    \"\"\"Test cases for DrugInteraction data class.\"\"\"\n    def test_valid_drug_interaction_creation(self):\n        \"\"\"Test creating a valid drug interaction.\"\"\"\n        interaction = DrugInteraction(\n            drug1=\"Warfarin\",\n            drug2=\"Aspirin\",\n            interaction_type=\"Anticoagulation\",\n            severity=\"High\",\n            risk_score=0.85,",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestGeneticVariant",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestGeneticVariant(unittest.TestCase):\n    \"\"\"Test cases for GeneticVariant data class.\"\"\"\n    def test_valid_genetic_variant_creation(self):\n        \"\"\"Test creating a valid genetic variant.\"\"\"\n        variant = GeneticVariant(\n            variant_id=\"rs1042522\",\n            gene=\"TP53\",\n            chromosome=\"17\",\n            position=7577120,\n            reference_allele=\"G\",",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestDataValidator",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestDataValidator(unittest.TestCase):\n    \"\"\"Test cases for DataValidator class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.validator = DataValidator()\n    def test_valid_patient_data(self):\n        \"\"\"Test validation of valid patient data.\"\"\"\n        valid_data = {\n            'patient_id': 'P001',\n            'age': '65',",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestStatisticalAnalyzer",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestStatisticalAnalyzer(unittest.TestCase):\n    \"\"\"Test cases for StatisticalAnalyzer class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.analyzer = StatisticalAnalyzer()\n        self.sample_patients = [\n            Patient(\n                patient_id=\"P001\", age=65, gender=\"M\", diagnosis=\"Lung Cancer\",\n                treatment=\"Chemotherapy\", survival_days=450,\n                genetic_variants=[], adverse_events=[],",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestDrugInteractionAnalyzer",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestDrugInteractionAnalyzer(unittest.TestCase):\n    \"\"\"Test cases for DrugInteractionAnalyzer class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.sample_interactions = [\n            DrugInteraction(\n                drug1=\"Warfarin\", drug2=\"Aspirin\",\n                interaction_type=\"Anticoagulation\", severity=\"High\",\n                risk_score=0.85, evidence_level=\"Strong\",\n                adverse_events=[\"Bleeding\", \"Bruising\"]",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestGeneticAnalyzer",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestGeneticAnalyzer(unittest.TestCase):\n    \"\"\"Test cases for GeneticAnalyzer class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.sample_variants = [\n            GeneticVariant(\n                variant_id=\"rs1042522\", gene=\"TP53\", chromosome=\"17\",\n                position=7577120, reference_allele=\"G\", alternate_allele=\"C\",\n                population_frequency=0.25, clinical_significance=\"Likely pathogenic\",\n                associated_diseases=[\"Lung Cancer\"]",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestReportGenerator",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestReportGenerator(unittest.TestCase):\n    \"\"\"Test cases for ReportGenerator class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.temp_dir = tempfile.mkdtemp()\n        self.generator = ReportGenerator(output_directory=self.temp_dir)\n        self.sample_patients = [\n            Patient(\n                patient_id=\"P001\", age=65, gender=\"M\", diagnosis=\"Lung Cancer\",\n                treatment=\"Chemotherapy\", survival_days=450,",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "TestMedicalResearchCLI",
+        "kind": 6,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "class TestMedicalResearchCLI(unittest.TestCase):\n    \"\"\"Test cases for MedicalResearchCLI class.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.cli = MedicalResearchCLI()\n    def test_load_sample_data(self):\n        \"\"\"Test loading sample data.\"\"\"\n        self.cli.load_sample_data()\n        self.assertGreater(len(self.cli.patients), 0)\n        self.assertGreater(len(self.cli.drug_interactions), 0)",
+        "detail": "test_medical_research",
+        "documentation": {}
+    },
+    {
+        "label": "run_tests",
+        "kind": 2,
+        "importPath": "test_medical_research",
+        "description": "test_medical_research",
+        "peekOfCode": "def run_tests():\n    \"\"\"Run all unit tests.\"\"\"\n    # Create test suite\n    test_suite = unittest.TestSuite()\n    # Add test cases\n    test_classes = [\n        TestPatient,\n        TestDrugInteraction,\n        TestGeneticVariant,\n        TestDataValidator,",
+        "detail": "test_medical_research",
+        "documentation": {}
+    }
+]

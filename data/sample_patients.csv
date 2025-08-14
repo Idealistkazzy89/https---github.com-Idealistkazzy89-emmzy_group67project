@@ -1,0 +1,11 @@
+patient_id,age,gender,diagnosis,treatment,survival_days,genetic_variants,adverse_events,biomarkers
+P001,65,M,Lung Cancer,Chemotherapy,450,EGFR_T790M;ALK_fusion,Nausea;Fatigue,CEA:15.2;CA125:45.8
+P002,58,F,Breast Cancer,Targeted Therapy,720,BRCA1_mutation;HER2_amplification,Rash;Diarrhea,HER2:3.2;ER:0.8
+P003,72,M,Prostate Cancer,Hormone Therapy,365,AR_mutation,Hot Flashes,PSA:8.5
+P004,45,F,Ovarian Cancer,Surgery + Chemotherapy,180,BRCA2_mutation,Nausea;Hair Loss,CA125:120.5;HE4:95.2
+P005,61,M,Colon Cancer,Immunotherapy,540,MSI_high;BRAF_mutation,Fatigue;Rash,CEA:25.8
+P006,69,F,Lung Cancer,Targeted Therapy,380,EGFR_L858R,Diarrhea;Rash,CEA:8.9;CA125:32.1
+P007,54,M,Melanoma,Immunotherapy,620,BRAF_V600E,Fatigue;Joint Pain,LDH:245.0
+P008,48,F,Breast Cancer,Surgery + Chemotherapy,420,BRCA1_mutation;TP53_mutation,Nausea;Hair Loss,HER2:2.8;ER:0.3
+P009,76,M,Prostate Cancer,Radiation Therapy,280,AR_amplification,Fatigue;Urinary Issues,PSA:12.3
+P010,52,F,Ovarian Cancer,Targeted Therapy,320,BRCA2_mutation;PARP_inhibition,Rash;Nausea,CA125:85.7;HE4:78.9 

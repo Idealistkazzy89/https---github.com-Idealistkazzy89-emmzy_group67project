@@ -1,0 +1,43 @@
+SURVIVAL ANALYSIS REPORT
+==================================================
+
+Generated on: 2025-07-28 15:49:41
+
+OVERALL SURVIVAL STATISTICS:
+------------------------------
+Mean survival: 451.00 days
+Median survival: 450.00 days
+Standard deviation: 200.70 days
+
+TREATMENT COMPARISON:
+--------------------
+
+Treatment: Chemotherapy
+  Patient count: 1
+  Mean survival: 450.00 days
+  Median survival: 450.00 days
+  Standard deviation: 0.00 days
+
+Treatment: Targeted Therapy
+  Patient count: 1
+  Mean survival: 720.00 days
+  Median survival: 720.00 days
+  Standard deviation: 0.00 days
+
+Treatment: Hormone Therapy
+  Patient count: 1
+  Mean survival: 365.00 days
+  Median survival: 365.00 days
+  Standard deviation: 0.00 days
+
+Treatment: Surgery + Chemotherapy
+  Patient count: 1
+  Mean survival: 180.00 days
+  Median survival: 180.00 days
+  Standard deviation: 0.00 days
+
+Treatment: Immunotherapy
+  Patient count: 1
+  Mean survival: 540.00 days
+  Median survival: 540.00 days
+  Standard deviation: 0.00 days

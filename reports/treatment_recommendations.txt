@@ -1,0 +1,17 @@
+EVIDENCE-BASED TREATMENT RECOMMENDATIONS
+=============================================
+
+Generated on: 2025-07-28 15:49:41
+
+TREATMENT EFFECTIVENESS ANALYSIS:
+-----------------------------------
+
+
+HIGH-RISK DRUG INTERACTIONS:
+------------------------------
+
+Warfarin + Aspirin:
+  Risk Score: 0.850
+  Severity: High
+  Type: Anticoagulation
+  WARNING: Avoid combination or monitor closely
